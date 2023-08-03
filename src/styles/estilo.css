@@ -84,7 +84,7 @@ body {
 }
 
 .container__descricao {
-
+    padding: 2em;
 }
 
 .descricao__titulo {
@@ -96,4 +96,9 @@ body {
 
 .descricao__texto {
     color: var(--cinza);
+}
+
+.secundario__botao{
+    display: inline-block;
+    margin-top: 1em;
 }
