@@ -17,11 +17,9 @@
 ## 🛠️ Abrir e rodar o projeto
 
 <p>Para abrir e rodar o projeto, basta abrir o aquivo `index.html` no navegador.</p>
-<p>Segunda opção, copie e cole o link no navegador:</p>
+<p>Segunda opção, clique no link abaixo:</p>
 
-'''
-https://alura-plus-aula-lac.vercel.app/
-'''
+<a href="https://alura-plus-aula-lac.vercel.app/" title="Acesse o site">Clique aqui para ver o projeto</a>
 
 ## 📚 Mais informações do curso
 
