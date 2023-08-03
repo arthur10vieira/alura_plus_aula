@@ -12,6 +12,7 @@
 - `html`: é a base para a construção de páginas web e desempenha um papel crucial na apresentação e organização do conteúdo online. Combinado com outras tecnologias, permite a criação de páginas visualmente atraentes e interativas, proporcionando uma experiência enriquecedora para os usuários da web.
 - `css`: é usado para definir a aparência visual conteúdo html com um design consistente e elaborado visualmente.
 - `JQuery`: é uma biblioteca de JavaScript de código aberto que simplifica e agiliza a manipulação de elementos HTML, a interação com eventos, animações e a realização de requisições AJAX em páginas web.
+- `Figma`: é uma plataforma de design e prototipagem colaborativa baseada em nuvem, amplamente utilizada por designers de interface, UX/UI e equipes de desenvolvimento para criar, compartilhar e colaborar em projetos de design de forma eficiente.
 
 ## 🛠️ Abrir e rodar o projeto
 
