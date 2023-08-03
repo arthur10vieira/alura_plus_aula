@@ -1,4 +1,26 @@
+:root {
+    --white: #FFF;
+    --cinza: #C0C0C0;
+    --azul: #167BF7;
+    --black: #00030C;
+}
+
 * {
     margin: 0;
     padding: 0;
+}
+
+body {
+    background-color: var(--black);
+    color: var(--white);
+}
+
+.principal {
+    background-image: url("../assets/Background.svg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.container {
+    height: 100vh;
 }
