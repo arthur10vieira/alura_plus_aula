@@ -157,3 +157,37 @@ body {
     text-align: center;
     margin: 5em 3em;
 }
+
+@media screen and (max-width: 1200px) {
+    .container {
+        display: block;
+        background-image: none;
+        width: auto;
+    }
+
+    .container__imagem {
+        width: 50vw;
+    }
+
+    .container__caixa {
+        margin: 2em 2em;
+    }
+
+    .secundario { 
+        margin: 0;
+        text-align: center;
+        margin: 0 2em;
+    }
+
+    .secundario__imagem {
+        width: 50vw;
+    }
+
+    .dispositivos__lista {
+        display: block;
+    }
+
+    .rodape__lista {
+        display: block;
+    }
+}
