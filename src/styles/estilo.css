@@ -61,3 +61,7 @@ body {
     font-size: 28px;
     font-weight: 700;
 }
+
+.container__imagem {
+    margin: 1em 0 2em 0;
+}
