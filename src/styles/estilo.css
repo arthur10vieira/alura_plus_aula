@@ -1,8 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+
 :root {
     --white: #FFF;
     --cinza: #C0C0C0;
     --azul: #167BF7;
     --black: #00030C;
+    --fonte-principal: 'Inter', sans-serif;
 }
 
 * {
@@ -13,6 +16,9 @@
 body {
     background-color: var(--black);
     color: var(--white);
+    font-family: var(--fonte-principal);
+    font-size: 16px;
+    font-weight: 400;
 }
 
 .principal {
@@ -33,6 +39,7 @@ body {
     padding: 1em;
     color: var(--white);
     display: block;
+    text-decoration: none;
 }
 
 .container__botao__secundario{
@@ -42,4 +49,15 @@ body {
     border: solid 2px var(--white);
     background-color: transparent;
     color: var(--white);
+    text-decoration: none;
+}
+
+.container__aviso {
+    color: var(--cinza);
+    font-size: 12px;
+}
+
+.container__titulo {
+    font-size: 28px;
+    font-weight: 700;
 }
